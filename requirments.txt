@@ -1,0 +1,10 @@
+# Data Manipulation
+pandas
+numpy
+statsmodels
+
+#Financial Data
+yfinance
+
+# Modeling Tools
+seaborn
